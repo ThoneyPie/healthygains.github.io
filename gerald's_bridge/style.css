@@ -1,0 +1,146 @@
+#test{
+    text-align: center;
+    padding:40px 0px 40px 0px;
+    font-size: 16px;
+    color: rgb(29, 6, 11);
+}
+#top{
+    font-size: 40px;
+    text-align: center;
+    text-decoration: darkseagreen;
+}
+#top p{
+color:darkseagreen;
+font-family: 'Moo Lah Lah', cursive;
+
+}
+body{
+    background-image: url(./apples-2607193_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+
+
+}
+
+#summit{
+    text-align:center;
+    padding: 10px;
+    color: rgb(91, 124, 96);
+    font-size: 14px;
+    font-weight: 900;
+    background-color:lightslategray;
+    border-radius: 8px;
+}
+
+@media screen and (max-width:900px){
+    body{
+    background-image: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}}
+
+#sumit{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.whatsapp{
+    text-size-adjust: auto;
+    text-align: center;
+    font-family:monospace;
+}
+p#inst{
+    font-family: monospace;
+    font-weight: 200;
+    color:rgb(51, 121, 64);
+    padding:30px;
+}
+
+
+div#piks{
+    display: table;
+    text-decoration: none;
+}
+
+#piks a{
+    text-decoration: none; font-size: 12px;
+}
+
+#butt{
+    border-radius: 4px;
+    background-color: gray;
+    text-align: center;
+    padding:6px;
+    color: rgb(230, 10, 10);
+    font-family: monospace;
+}
+
+#h3{
+    font-size: 20px;
+    font-family: cursive;
+}
+
+caption{
+    text-align: center;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius:50px;
+    border: none;
+}
+.tale{
+    align-content: center;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    padding:40px;
+    
+
+}
+.tale{
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    
+}
+
+figcaption{
+    background-color: darkgrey;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    position: relative;
+    
+}
+
+ 
+ a:hover{
+    text-decoration: none;
+    color:rgb(199, 36, 36);
+    
+}
+@media screen and (max-width:900px) {
+    table, td  { display: block ;
+    margin-left:auto;
+    margin-right: auto;
+    overflow: y-scroll;
+    overflow: scroll;
+} 
+}
+ a:visited{
+     color:blueviolet;
+     font-weight: 900;
+ }
